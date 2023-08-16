@@ -1,0 +1,31 @@
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\appsettings.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.staticwebassets.runtime.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.exe
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.deps.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.runtimeconfig.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.dll
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\bin\Debug\net6.0\Exercise 2 - Image Search.pdb
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.csproj.AssemblyReference.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.AssemblyInfoInputs.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.AssemblyInfo.cs
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.csproj.CoreCompileInputs.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.RazorAssemblyInfo.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.RazorAssemblyInfo.cs
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets\msbuild.Exercise 2 - Image Search.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets\msbuild.build.Exercise 2 - Image Search.props
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exercise 2 - Image Search.props
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exercise 2 - Image Search.props
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\scopedcss\bundle\Exercise 2 - Image Search.styles.css
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\scopedcss\projectbundle\Exercise 2 - Image Search.bundle.scp.css
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.dll
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\refint\Exercise 2 - Image Search.dll
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.pdb
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\Exercise 2 - Image Search.genruntimeconfig.cache
+C:\Users\grubb\OneDrive\Skrivebord\Skole\Gitbash\opgaver\Exercise 2 - Image Search\obj\Debug\net6.0\ref\Exercise 2 - Image Search.dll
